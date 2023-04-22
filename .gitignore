@@ -1,0 +1,16 @@
+# Local files
+*.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+*.tfvars
+*.tfplan
+
+# Logs
+*.log
+
+# Credentials
+*.pem
+*.key
+*.tfvars.json
+*.tfvars.tf
